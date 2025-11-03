@@ -130,7 +130,7 @@ pub fn helper() {  // 注意 `pub` 使函数对外可见
 ///
 /// ```
 /// let arg = 5;
-/// let answer = minigrep::add_one(arg);
+/// let answer = book::add_one(arg);
 ///
 /// assert_eq!(6, answer);
 /// ```

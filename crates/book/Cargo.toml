@@ -1,0 +1,12 @@
+[package]
+name = "book"
+version = "0.2.0"
+edition = "2024"
+description = "A fun cmd where you search what you has input."
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/book"
+homepage = "https://www.dart.xin"
+repository = "https://github.com/zwdart/book"
+
+[dependencies]
+regex = "1.12.2"

@@ -32,3 +32,6 @@ CodeLLDB
 
 ### 生成文档
 cargo doc --open
+
+### 创建 crates
+cargo new logger --lib
